@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f47af72f-62fe-4d8f-abe7-ef4416783d8c" name="Default Changelist" comment="" />
+    <list default="true" id="f47af72f-62fe-4d8f-abe7-ef4416783d8c" name="Default Changelist" comment="init commit">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -173,8 +175,16 @@
       <workItem from="1621792612229" duration="899000" />
       <workItem from="1621795406962" duration="76000" />
       <workItem from="1621795615132" duration="1408000" />
-      <workItem from="1621799832694" duration="2512000" />
+      <workItem from="1621799832694" duration="4318000" />
     </task>
+    <task id="LOCAL-00001" summary="init commit">
+      <created>1621802381183</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1621802381183</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -190,5 +200,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="init commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="init commit" />
   </component>
 </project>
